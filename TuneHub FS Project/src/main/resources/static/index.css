@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+	background-color: #708090;
+}
+
+
+.index {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%; /* Adjust this width as needed */
+    margin-top: 100px;
+}
+
+h1{
+	font-size: xx-large;
+}
+
+a{
+	font-size: large;
+}
+
